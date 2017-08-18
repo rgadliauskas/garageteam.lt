@@ -4,6 +4,7 @@
     <title>Mano puslapis</title>
     <link rel="stylesheet" href="CSS/antras.css">
     <link rel="stylesheet" href="CSS/isdestymas.css">
+    <link rel="stylesheet" href="CSS/animacijos.css">
 
 </head>
 <body>
@@ -12,7 +13,7 @@
     1
 </div>
 
-<div class="green">
+<div class="green ">
     2
 </div>
 
