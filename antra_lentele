@@ -2,26 +2,28 @@
 <html>
 <head>
     <title>Mano puslapis</title>
+    <link rel="stylesheet" href="CSS/antras.css">
+    <link rel="stylesheet" href="CSS/isdestymas.css">
+
 </head>
 <body>
 
-<div>
+<div class="green" id="elementas">
     1
 </div>
 
-<div>
+<div class="green">
     2
 </div>
 
-<div>
+<div class="green">
     3
 </div>
-<div>
-    <div>4.1</div>
-    <div>4.2</div>
-    <div>4.3</div>
 
-
+<div class="red ketvirtukai plotis100">
+    <div class="green ketvirtukai plotis33" >4.1</div>
+    <div class="green ketvirtukai plotis33">4.2</div>
+    <div class="green ketvirtukai plotis33">4.3</div>
 </div>
 
 
